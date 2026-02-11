@@ -8,7 +8,10 @@ h1,
 h2,
 h3,
 p,
-figure {
+figure,
+blockquote,
+dl,
+dd {
     margin: 0;
 }
 
@@ -29,6 +32,14 @@ body {
 
 a:not([class]) {
     text-decoration-skip-ink: auto;
+}
+
+a {
+text-decoration: none;
+}
+
+ul, ol {
+    list-style: none;
 }
 
 img,
