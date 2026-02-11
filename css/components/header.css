@@ -9,7 +9,7 @@
     width: calc(100% - 40px);
     border-radius: 15px;
     z-index: 999;
-    padding: 12px 20px;
+    padding: 0.625rem 1.25rem;
     background-color: #ffffff;
 }
 
@@ -25,6 +25,7 @@
 .nav-center a,
 .nav-right a {
     font-size: 1.25rem;
+    color: #333333;
 }
 
 .nav-center a:hover,
