@@ -111,18 +111,6 @@
         text-align: center;
     }
 
-    .nav-center ul,
-    .nav-right ul {
-        flex-direction: column;
-        gap: 1.5rem;
-        width: 100%;
-    }
-
-    .nav-center ul li,
-    .nav-right ul li {
-        width: 100%;
-    }
-
     .nav-center a,
     .nav-right a {
         width: 100%;
