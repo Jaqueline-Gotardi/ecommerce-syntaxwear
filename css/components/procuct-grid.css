@@ -18,12 +18,12 @@
 
 .model {
     grid-area: model;
-    background-image: url(../../images/products/futurista-grid.jpg);
+    background-image: url(../../images/products/modelo-feminino.jpg);
 }
 
 .sneaker-color {
     grid-area: sneaker-color;
-    background-image: url(../../images/products/modelo-feminino.jpg);
+    background-image: url(../../images/products/futurista-grid.jpg);
 }
 
 .sneaker-white {
