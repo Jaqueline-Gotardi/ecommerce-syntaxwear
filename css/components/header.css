@@ -6,7 +6,8 @@
     justify-content: space-between;
     align-items: center;
     transform: translate(-50%);
-    width: calc(100% - 210px);
+    /* width: calc(100% - 210px); */
+    width: 1260px;
     border-radius: 15px;
     z-index: 999;
     padding: 0.265rem 1.25rem;
@@ -49,9 +50,10 @@
 
 .nav-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 100%;
     align-items: center;
+    margin-left: 10rem;
 }
 
 .menu-toggle {
