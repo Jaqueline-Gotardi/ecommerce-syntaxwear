@@ -6,7 +6,7 @@
    border-radius: 20px;
 }
 
-.highLight {
+.highlight {
     grid-area: highlight;
     background-image: url(../../images/products/card_imagem.jpg);
 }
