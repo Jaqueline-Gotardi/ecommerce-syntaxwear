@@ -57,7 +57,7 @@ Projeto criado como exercício prático do curso **DevQuest** - [DevEmDobro](htt
 
 ## 🖼️ Imagem
 
-![Site](./images/products/imagem-responsive.jpg)
+![Site](./images/products/imagem-responsive.png)
 
 ---
 
